@@ -5,4 +5,4 @@ The Files :
 1.open-vpn-logo.svg
 2.openVPN-logo.png 
 
-are licenced under GPL v3 and the trademark is owned by www.openvpn.net.
+are licenced under GPL version 3 or any later version and the trademark is owned by www.openvpn.net.
